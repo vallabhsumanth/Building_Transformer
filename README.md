@@ -18,6 +18,7 @@ Progress Monitoring: Uses tqdm to show epoch and loss updates.
 
 # Project Structure
 Whenever you are Training a Transformer
+
 ├── transformer/
 │   ├── model.py          
 │   ├── layers.py        
