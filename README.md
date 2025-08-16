@@ -1,4 +1,4 @@
-# Building_Transformer
+# Transformer
 1) A custom-built encoder-decoder Transformer architecture.
 2) Manually implemented multi-head self-attention and positional encoding.
 3) Proper handling of masking (padding and look-ahead) for sequence tasks.
